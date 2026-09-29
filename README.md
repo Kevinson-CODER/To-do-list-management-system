@@ -21,9 +21,11 @@ Features :-
 Technology use :-   Python 3.14.7
 
 HOW TO OPEN :-
-    
+             Python todolist_management.py
 HOW TO RUN THE PROJECT :-
-    
+                          cd To-do-list-management-system
+CLONE OF THE REPOSITORY :-
+                          https://github.com/Kevinson-CODER/To-do-list-management-system.git
 
 Steps to run the code:-
     1. Calculator run in the terminal 
